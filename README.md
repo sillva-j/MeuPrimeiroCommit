@@ -8,7 +8,7 @@ git status\
 gith push\
 git pull\
 git log\
-Responda:\
+Responda:
 1. Para inicializar o GIT em um novo repositório: git init\
 2. Para adicionar as alterações realizadas no repositório: git add .\
 3. Para gravar as alterações: git commit -m "Sua mensagem de commit aqui"\
